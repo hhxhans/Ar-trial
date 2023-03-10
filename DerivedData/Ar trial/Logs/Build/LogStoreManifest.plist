@@ -6,6 +6,40 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>33784D23-0DEE-4BF1-AEE3-28E14BC673A9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>33784D23-0DEE-4BF1-AEE3-28E14BC673A9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Ar trial project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Ar trial</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean Ar trial</string>
+			<key>timeStartedRecording</key>
+			<real>700123039.12135899</real>
+			<key>timeStoppedRecording</key>
+			<real>700123039.23072696</real>
+			<key>title</key>
+			<string>Clean Ar trial</string>
+			<key>uniqueIdentifier</key>
+			<string>33784D23-0DEE-4BF1-AEE3-28E14BC673A9</string>
+		</dict>
 		<key>885D9D01-D75A-45EC-B435-B0524A29374C</key>
 		<dict>
 			<key>className</key>
@@ -107,6 +141,40 @@
 			<string>Build Ar trial</string>
 			<key>uniqueIdentifier</key>
 			<string>AC8070D5-9FE0-448F-9379-7E50DDA18164</string>
+		</dict>
+		<key>FA00DEDC-2B28-4E96-9A34-F460603DA165</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FA00DEDC-2B28-4E96-9A34-F460603DA165.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Ar trial project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Ar trial</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean Ar trial</string>
+			<key>timeStartedRecording</key>
+			<real>700123036.40100503</real>
+			<key>timeStoppedRecording</key>
+			<real>700123036.55769002</real>
+			<key>title</key>
+			<string>Clean Ar trial</string>
+			<key>uniqueIdentifier</key>
+			<string>FA00DEDC-2B28-4E96-9A34-F460603DA165</string>
 		</dict>
 	</dict>
 </dict>

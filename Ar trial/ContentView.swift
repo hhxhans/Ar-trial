@@ -10,7 +10,10 @@ import RealityKit
 
 struct ContentView : View {
     var body: some View {
-        return ARViewContainer().edgesIgnoringSafeArea(.all)
+        ZStack{
+            ARViewContainer().edgesIgnoringSafeArea(.all)
+        }
+       
     }
 }
 
@@ -25,6 +28,15 @@ struct ARViewContainer: UIViewRepresentable {
         
         // Add the box anchor to the scene
         arView.scene.anchors.append(boxAnchor)
+        
+        let mesh:MeshResource = .generatePlane(width: 0.5, depth: 0.5)
+        
+        var material=SimpleMaterial()
+        material.metallic = .float(1)
+        material.roughness = .float(1)
+        material.color = .init(tint: .white.withAlphaComponent(0.99), texture: .init(try! .load(named:"biplane_2x")))
+        let model=ModelEntity(mesh: mesh, materials: [material])
+        boxAnchor.addChild(model)
         
         return arView
         

@@ -5,6 +5,109 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>885D9D01-D75A-45EC-B435-B0524A29374C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>885D9D01-D75A-45EC-B435-B0524A29374C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Ar trial project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Ar trial</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Ar trial</string>
+			<key>timeStartedRecording</key>
+			<real>700122710.32880294</real>
+			<key>timeStoppedRecording</key>
+			<real>700122745.19131303</real>
+			<key>title</key>
+			<string>Build Ar trial</string>
+			<key>uniqueIdentifier</key>
+			<string>885D9D01-D75A-45EC-B435-B0524A29374C</string>
+		</dict>
+		<key>8CF2C070-050F-46D1-AE2A-607F0F6AA96B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8CF2C070-050F-46D1-AE2A-607F0F6AA96B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Ar trial project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Ar trial</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Ar trial</string>
+			<key>timeStartedRecording</key>
+			<real>700068949.70339</real>
+			<key>timeStoppedRecording</key>
+			<real>700068955.66983104</real>
+			<key>title</key>
+			<string>Build Ar trial</string>
+			<key>uniqueIdentifier</key>
+			<string>8CF2C070-050F-46D1-AE2A-607F0F6AA96B</string>
+		</dict>
+		<key>AC8070D5-9FE0-448F-9379-7E50DDA18164</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AC8070D5-9FE0-448F-9379-7E50DDA18164.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Ar trial project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Ar trial</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Ar trial</string>
+			<key>timeStartedRecording</key>
+			<real>700117965.83376706</real>
+			<key>timeStoppedRecording</key>
+			<real>700117984.96254396</real>
+			<key>title</key>
+			<string>Build Ar trial</string>
+			<key>uniqueIdentifier</key>
+			<string>AC8070D5-9FE0-448F-9379-7E50DDA18164</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

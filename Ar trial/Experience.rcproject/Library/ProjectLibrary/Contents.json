@@ -1,3 +1,27 @@
 [
-
+  {
+    "libraryIdentifier" : "1bc96b969bfe676c68c6e06379b75bf3",
+    "format" : "image",
+    "displayName" : "start_logo.png"
+  },
+  {
+    "libraryIdentifier" : "c91e1c2f72c7a38446a3812371e120c0",
+    "format" : "image",
+    "displayName" : "elogo.png"
+  },
+  {
+    "libraryIdentifier" : "d7df9391500d05d157c8214be551c57d",
+    "format" : "image",
+    "displayName" : "0.png"
+  },
+  {
+    "libraryIdentifier" : "0e6fd34f9fce200adaa0e7e903af4593",
+    "format" : "model",
+    "displayName" : "gramophone.usdz"
+  },
+  {
+    "libraryIdentifier" : "2053804e58490c52933c9f9249d6dd32",
+    "format" : "model",
+    "displayName" : "resistance.usdz"
+  }
 ]
